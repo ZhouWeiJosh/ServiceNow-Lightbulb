@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="e611d6cef45231107f447df0dc1e223f" label="Classes" max_length="40" name="x_snc_lightbulb_classes" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" display="true" label="Name" max_length="40" name="name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="English" sequence="0" value="english"/>
+                <element inactive_on_update="false" label="History" sequence="1" value="history"/>
+                <element inactive_on_update="false" label="Math" sequence="2" value="math"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Sections" max_length="40" name="sections" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="001" sequence="0" value="001"/>
+                <element inactive_on_update="false" label="002" sequence="1" value="002"/>
+                <element inactive_on_update="false" label="003" sequence="2" value="003"/>
+                <element inactive_on_update="false" label="004" sequence="3" value="004"/>
+                <element inactive_on_update="false" label="005" sequence="4" value="005"/>
+            </choice>
+        </element>
+    </element>
+</database>

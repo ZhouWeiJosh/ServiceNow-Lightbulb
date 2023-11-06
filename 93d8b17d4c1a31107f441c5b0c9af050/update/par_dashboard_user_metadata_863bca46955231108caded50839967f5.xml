@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
     <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
-        <created_by_user display_value="Joshua Chow">e4e239754c1a31107f441c5b0c9af05c</created_by_user>
+        <created_by_user display_value="">e4e239754c1a31107f441c5b0c9af05c</created_by_user>
         <created_on>2022-05-29 16:29:20</created_on>
         <dashboard display_value="Teacher">823bca46d6523110d6782c7a23f400f6</dashboard>
         <last_updated_on>2023-11-06 00:48:09</last_updated_on>
@@ -8,18 +8,15 @@
         <sys_class_name>par_dashboard_user_metadata</sys_class_name>
         <sys_created_by>jChow</sys_created_by>
         <sys_created_on>2023-11-05 19:53:57</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>863bca46955231108caded50839967f5</sys_id>
         <sys_mod_count>15</sys_mod_count>
         <sys_name/>
-        <sys_overrides/>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
         <sys_update_name>par_dashboard_user_metadata_863bca46955231108caded50839967f5</sys_update_name>
         <sys_updated_by>tomc</sys_updated_by>
         <sys_updated_on>2023-11-06 00:48:09</sys_updated_on>
-        <updated_by_user display_value="Tom C">8dbeb506f41231107f447df0dc1e2227</updated_by_user>
+        <updated_by_user display_value="">8dbeb506f41231107f447df0dc1e2227</updated_by_user>
     </par_dashboard_user_metadata>
 </record_update>

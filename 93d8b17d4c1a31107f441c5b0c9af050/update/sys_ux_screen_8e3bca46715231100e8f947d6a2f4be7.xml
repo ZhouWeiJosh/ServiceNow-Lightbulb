@@ -3,7 +3,6 @@
         <active>true</active>
         <app_config display_value="Teacher App Config">063bca46fc5231107c01988c0ffe6ffd</app_config>
         <description/>
-        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings/>
         <macroponent display_value="Dashboards">163a913b532c0110aab9ddeeff7b1241</macroponent>
         <macroponent_config/>

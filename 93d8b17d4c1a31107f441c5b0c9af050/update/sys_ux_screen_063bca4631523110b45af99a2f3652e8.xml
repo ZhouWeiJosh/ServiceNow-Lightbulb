@@ -3,7 +3,6 @@
         <active>true</active>
         <app_config display_value="Teacher App Config">063bca46fc5231107c01988c0ffe6ffd</app_config>
         <description/>
-        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[
     {
         "eventMappingId": "clgwmwhhiaaawiieeddbhhwcjvmohhwk",

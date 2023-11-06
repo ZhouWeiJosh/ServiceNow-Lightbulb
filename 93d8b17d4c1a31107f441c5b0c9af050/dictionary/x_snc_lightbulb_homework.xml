@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="bfbf3186f41231107f447df0dc1e227e" label="Homework" max_length="40" name="x_snc_lightbulb_homework" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Class" mandatory="true" max_length="32" name="class" reference="x_snc_lightbulb_classes" type="reference"/>
+        <element label="Comments" max_length="100" name="comments" type="journal_input"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Due Date" max_length="255" name="due_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Group assignment" max_length="40" name="group_assignment" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="100" label="Max Score" max_length="40" name="max_score" type="integer"/>
+        <element label="Rubric" max_length="4000" name="rubric" type="string"/>
+        <element display="true" label="Short Description" max_length="200" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="0" label="State" max_length="40" name="state" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="0"/>
+                <element inactive_on_update="false" label="Post" sequence="1" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,no_sort=true,slushbucket_ref_no_expand=true" label="Students" max_length="4000" name="students" reference="sys_user" reference_qual="roles=x_snc_lightbulb.user" reference_qual_condition="roles=x_snc_lightbulb.user" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true,no_sort=true,slushbucket_ref_no_expand=true" label="Student Groups" max_length="4000" name="student_groups" reference="sys_user_group" reference_qual="typeLIKE180db6caf45631107f447df0dc1e2253" reference_qual_condition="typeLIKE180db6caf45631107f447df0dc1e2253" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Teacher" max_length="32" name="teacher" reference="sys_user" reference_qual="roles=x_snc_lightbulb.teacher^EQ" reference_qual_condition="roles=x_snc_lightbulb.teacher^EQ" type="reference" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="class"/>
+        </index>
+        <index name="index2">
+            <element name="teacher"/>
+        </index>
+    </element>
+</database>

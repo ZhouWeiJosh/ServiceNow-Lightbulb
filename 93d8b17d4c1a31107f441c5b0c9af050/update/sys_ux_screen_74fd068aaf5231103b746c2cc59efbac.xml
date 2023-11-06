@@ -3,9 +3,8 @@
         <active>true</active>
         <app_config display_value="Student App Config">78fd068a565231103c15d15ff66b20c0</app_config>
         <description/>
-        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings/>
-        <macroponent display_value="Visualization designer">2d5dcc29c3110110d938e4788940dd8f</macroponent>
+        <macroponent display_value="Visualization Designer">2d5dcc29c3110110d938e4788940dd8f</macroponent>
         <macroponent_config/>
         <name>Visualization Designer Default</name>
         <order>0</order>

@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>jChow</sys_created_by>
             <sys_created_on>2023-11-05 20:37:26</sys_created_on>
-            <sys_id>af25d646f49231107f447df0dc1e2277</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>type</sys_name>
             <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2023-11-05 20:37:26</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6b25d646f49231107f447df0dc1e2277</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jChow</sys_updated_by>
             <sys_updated_on>2023-11-05 20:37:26</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2023-11-05 20:37:26</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a325d646f49231107f447df0dc1e2279</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jChow</sys_updated_by>
             <sys_updated_on>2023-11-05 20:37:26</sys_updated_on>

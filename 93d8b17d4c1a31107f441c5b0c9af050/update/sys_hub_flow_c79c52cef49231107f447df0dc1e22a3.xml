@@ -4,7 +4,6 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=integrated,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=11278000,viewActivatedIn=diagramming</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
@@ -30,15 +29,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c79c52cef49231107f447df0dc1e22a3</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Create Assignments</sys_name>
         <sys_overrides/>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
         <sys_update_name>sys_hub_flow_c79c52cef49231107f447df0dc1e22a3</sys_update_name>
-        <sys_updated_by>tomc</sys_updated_by>
-        <sys_updated_on>2023-11-06 00:17:58</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-06 02:16:46</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=c79c52cef49231107f447df0dc1e22a3"/>
@@ -230,7 +229,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=31cf5ec2f4d231107f447df0dc1e2286"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -314,7 +312,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=b5cf5ec2f4d231107f447df0dc1e228d"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -398,7 +395,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=fdcf5ec2f4d231107f447df0dc1e2289"/>
     <sys_hub_flow_output action="delete_multiple" query="model=c79c52cef49231107f447df0dc1e22a3"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=c79c52cef49231107f447df0dc1e22a3"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=c79c52cef49231107f447df0dc1e22a3^sys_idNOT IN0acf5ec2f4d231107f447df0dc1e229d,ebc9ee82f41631107f447df0dc1e2212"/>
@@ -407,7 +403,6 @@
         <action_inputs/>
         <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
         <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Create Assignments">c79c52cef49231107f447df0dc1e22a3</flow>
@@ -483,7 +478,6 @@
         <action_inputs/>
         <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
         <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Create Assignments">c79c52cef49231107f447df0dc1e22a3</flow>
@@ -544,7 +538,6 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=c79c52cef49231107f447df0dc1e22a3"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=c79c52cef49231107f447df0dc1e22a3^sys_idNOT IN6bc9ae82f41631107f447df0dc1e22ed,79cf5ec2f4d231107f447df0dc1e2295,ebc9ee82f41631107f447df0dc1e220b,ebc9ee82f41631107f447df0dc1e2215"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">afc9ae82f41631107f447df0dc1e22ec</block>
         <comment/>
         <connected_to/>
@@ -617,7 +610,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=6bc9ae82f41631107f447df0dc1e22ed"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=6bc9ae82f41631107f447df0dc1e22ed"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">bdcf5ec2f4d231107f447df0dc1e2294</block>
         <comment/>
         <connected_to/>
@@ -664,7 +656,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=79cf5ec2f4d231107f447df0dc1e2295"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=79cf5ec2f4d231107f447df0dc1e2295"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">27c9ee82f41631107f447df0dc1e220b</block>
         <comment/>
         <connected_to/>
@@ -711,7 +702,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=ebc9ee82f41631107f447df0dc1e220b"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=ebc9ee82f41631107f447df0dc1e220b"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">27c9ee82f41631107f447df0dc1e2215</block>
         <comment/>
         <connected_to/>
@@ -759,11 +749,11 @@
         <sys_created_on>2023-11-05 21:23:44</sys_created_on>
         <sys_id>31cf5ec2f4d231107f447df0dc1e2289</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_c79c52cef49231107f447df0dc1e22a3_current_en</sys_update_name>
         <sys_updated_by>jXiong</sys_updated_by>
         <sys_updated_on>2023-11-05 21:23:44</sys_updated_on>
         <url/>
@@ -782,11 +772,11 @@
         <sys_created_on>2023-11-05 21:23:45</sys_created_on>
         <sys_id>79cf5ec2f4d231107f447df0dc1e228f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_c79c52cef49231107f447df0dc1e22a3_table_name_en</sys_update_name>
         <sys_updated_by>jXiong</sys_updated_by>
         <sys_updated_on>2023-11-05 21:23:45</sys_updated_on>
         <url/>
@@ -805,11 +795,11 @@
         <sys_created_on>2023-11-05 21:23:44</sys_created_on>
         <sys_id>f5cf5ec2f4d231107f447df0dc1e228c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_c79c52cef49231107f447df0dc1e22a3_changed_fields_en</sys_update_name>
         <sys_updated_by>jXiong</sys_updated_by>
         <sys_updated_on>2023-11-05 21:23:44</sys_updated_on>
         <url/>
@@ -823,7 +813,6 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=integrated,labelCacheCleanUpExecuted=true,viewActivatedIn=diagramming</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
@@ -1007,7 +996,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=64154f0af49631107f447df0dc1e2271"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -1091,7 +1079,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=68154f0af49631107f447df0dc1e224f"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -1175,7 +1162,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=6c154f0af49631107f447df0dc1e2285"/>
     <sys_hub_flow_output action="delete_multiple" query="model=a4154f0af49631107f447df0dc1e224d"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=a4154f0af49631107f447df0dc1e224d"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=a4154f0af49631107f447df0dc1e224d^sys_idNOT IN34158f0af49631107f447df0dc1e220f,b4154f0af49631107f447df0dc1e22be"/>
@@ -1184,7 +1170,6 @@
         <action_inputs/>
         <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
         <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Create Assignments">a4154f0af49631107f447df0dc1e224d</flow>
@@ -1260,7 +1245,6 @@
         <action_inputs/>
         <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
         <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Create Assignments">a4154f0af49631107f447df0dc1e224d</flow>
@@ -1321,7 +1305,6 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=a4154f0af49631107f447df0dc1e224d"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=a4154f0af49631107f447df0dc1e224d^sys_idNOT IN64154f0af49631107f447df0dc1e2291,b0154f0af49631107f447df0dc1e229a,bc154f0af49631107f447df0dc1e22b5,e4154f0af49631107f447df0dc1e2296"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">afc9ae82f41631107f447df0dc1e22ec</block>
         <comment/>
         <connected_to/>
@@ -1394,7 +1377,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=64154f0af49631107f447df0dc1e2291"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=64154f0af49631107f447df0dc1e2291"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">27c9ee82f41631107f447df0dc1e2215</block>
         <comment/>
         <connected_to/>
@@ -1427,7 +1409,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=b0154f0af49631107f447df0dc1e229a"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=b0154f0af49631107f447df0dc1e229a"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">bdcf5ec2f4d231107f447df0dc1e2294</block>
         <comment/>
         <connected_to/>
@@ -1474,7 +1455,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=bc154f0af49631107f447df0dc1e22b5"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=bc154f0af49631107f447df0dc1e22b5"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">27c9ee82f41631107f447df0dc1e220b</block>
         <comment/>
         <connected_to/>
@@ -1536,11 +1516,11 @@
         <sys_created_on>2023-11-06 00:06:41</sys_created_on>
         <sys_id>24154f0af49631107f447df0dc1e2282</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_a4154f0af49631107f447df0dc1e224d_changed_fields_en</sys_update_name>
         <sys_updated_by>tomc</sys_updated_by>
         <sys_updated_on>2023-11-06 00:06:41</sys_updated_on>
         <url/>
@@ -1559,11 +1539,11 @@
         <sys_created_on>2023-11-06 00:06:40</sys_created_on>
         <sys_id>2c154f0af49631107f447df0dc1e226d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_a4154f0af49631107f447df0dc1e224d_current_en</sys_update_name>
         <sys_updated_by>tomc</sys_updated_by>
         <sys_updated_on>2023-11-06 00:06:40</sys_updated_on>
         <url/>
@@ -1582,11 +1562,11 @@
         <sys_created_on>2023-11-06 00:06:41</sys_created_on>
         <sys_id>a0154f0af49631107f447df0dc1e228a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_a4154f0af49631107f447df0dc1e224d_table_name_en</sys_update_name>
         <sys_updated_by>tomc</sys_updated_by>
         <sys_updated_on>2023-11-06 00:06:41</sys_updated_on>
         <url/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="64b15602f49231107f447df0dc1e2289" label="Class Members" max_length="40" name="x_snc_lightbulb_many_to_many" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Class" max_length="32" name="class" reference="x_snc_lightbulb_classes" reference_floats="true" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Teacher" sequence="0" value="teacher"/>
+                <element inactive_on_update="false" label="Student" sequence="1" value="student"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" reference_qual="roles=x_snc_lightbulb.user^ORroles=x_snc_lightbulb.teacher^EQ" reference_qual_condition="roles=x_snc_lightbulb.user^ORroles=x_snc_lightbulb.teacher^EQ" type="reference"/>
+        <index name="index">
+            <element name="class"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

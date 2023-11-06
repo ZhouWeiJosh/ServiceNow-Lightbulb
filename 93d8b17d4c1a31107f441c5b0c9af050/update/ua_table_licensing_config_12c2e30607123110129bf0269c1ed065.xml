@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>jChow</sys_created_by>
         <sys_created_on>2023-11-05 20:19:37</sys_created_on>
-        <sys_id>6e11d6cef45231107f447df0dc1e2251</sys_id>
+        <sys_id>12c2e30607123110129bf0269c1ed065</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_lightbulb_classes</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name>ua_table_licensing_config_6e11d6cef45231107f447df0dc1e2251</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_12c2e30607123110129bf0269c1ed065</sys_update_name>
         <sys_updated_by>jChow</sys_updated_by>
         <sys_updated_on>2023-11-05 20:19:37</sys_updated_on>
     </ua_table_licensing_config>

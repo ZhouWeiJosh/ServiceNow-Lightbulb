@@ -4,7 +4,6 @@
         <api_name>x_snc_lightbulb.Audience for app teacher</api_name>
         <description/>
         <name>Audience for app teacher</name>
-        <role_names/>
         <roles>ebd8b17d4c1a31107f441c5b0c9af065,e7d8b17d4c1a31107f441c5b0c9af062,e7d8b17d4c1a31107f441c5b0c9af068</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>jChow</sys_created_by>

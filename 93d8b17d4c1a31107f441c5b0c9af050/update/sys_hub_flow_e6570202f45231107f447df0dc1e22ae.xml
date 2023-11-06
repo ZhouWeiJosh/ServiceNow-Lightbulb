@@ -4,7 +4,6 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=16230000,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
@@ -30,15 +29,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e6570202f45231107f447df0dc1e22ae</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Email when Homework has a comment</sys_name>
         <sys_overrides/>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
         <sys_update_name>sys_hub_flow_e6570202f45231107f447df0dc1e22ae</sys_update_name>
-        <sys_updated_by>kIshikawa</sys_updated_by>
-        <sys_updated_on>2023-11-06 00:07:36</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-06 02:16:49</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=e6570202f45231107f447df0dc1e22ae"/>
@@ -230,7 +229,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=02a74602f45231107f447df0dc1e22bf"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -314,7 +312,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=5aa78a02f45231107f447df0dc1e227d"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -398,7 +395,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=caa74602f45231107f447df0dc1e22c3"/>
     <sys_hub_flow_output action="delete_multiple" query="model=e6570202f45231107f447df0dc1e22ae"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=e6570202f45231107f447df0dc1e22ae"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=e6570202f45231107f447df0dc1e22ae^sys_idNOT IN696612c6f49231107f447df0dc1e2288,a56612c6f49231107f447df0dc1e227c,f312de02f49231107f447df0dc1e22c1"/>
@@ -407,7 +403,6 @@
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Email when Homework has a comment">e6570202f45231107f447df0dc1e22ae</flow>
@@ -520,7 +515,6 @@
         <action_inputs/>
         <action_type display_value="Look Up Records">43400a1587003300663ca1bb36cb0b4b</action_type>
         <action_type_parent display_value="Look Up Records">d1c56ec50b30030085c083eb37673a50</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Email when Homework has a comment">e6570202f45231107f447df0dc1e22ae</flow>
@@ -583,7 +577,6 @@
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Email when Homework has a comment">e6570202f45231107f447df0dc1e22ae</flow>
@@ -656,7 +649,6 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=e6570202f45231107f447df0dc1e22ae"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=e6570202f45231107f447df0dc1e22ae^sys_idNOT IN0793de82f49231107f447df0dc1e22bd,d16612c6f49231107f447df0dc1e2273,e96612c6f49231107f447df0dc1e227f"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">0b93de82f49231107f447df0dc1e22bc</block>
         <comment/>
         <connected_to/>
@@ -703,7 +695,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=0793de82f49231107f447df0dc1e22bd"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=0793de82f49231107f447df0dc1e22bd"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">516612c6f49231107f447df0dc1e2266</block>
         <comment/>
         <connected_to/>
@@ -750,7 +741,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=d16612c6f49231107f447df0dc1e2273"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=d16612c6f49231107f447df0dc1e2273"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">256612c6f49231107f447df0dc1e227f</block>
         <comment/>
         <connected_to/>
@@ -846,11 +836,11 @@
         <sys_created_on>2023-11-05 19:38:21</sys_created_on>
         <sys_id>0ea74602f45231107f447df0dc1e22c2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_e6570202f45231107f447df0dc1e22ae_current_en</sys_update_name>
         <sys_updated_by>tomc</sys_updated_by>
         <sys_updated_on>2023-11-05 19:38:21</sys_updated_on>
         <url/>
@@ -869,11 +859,11 @@
         <sys_created_on>2023-11-05 19:38:22</sys_created_on>
         <sys_id>1ea78a02f45231107f447df0dc1e227f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_e6570202f45231107f447df0dc1e22ae_table_name_en</sys_update_name>
         <sys_updated_by>tomc</sys_updated_by>
         <sys_updated_on>2023-11-05 19:38:22</sys_updated_on>
         <url/>
@@ -892,11 +882,11 @@
         <sys_created_on>2023-11-05 19:38:22</sys_created_on>
         <sys_id>9aa78a02f45231107f447df0dc1e227c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_e6570202f45231107f447df0dc1e22ae_changed_fields_en</sys_update_name>
         <sys_updated_by>tomc</sys_updated_by>
         <sys_updated_on>2023-11-05 19:38:22</sys_updated_on>
         <url/>
@@ -910,7 +900,6 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
@@ -1094,7 +1083,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=29458b4af49631107f447df0dc1e2208"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -1178,7 +1166,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=a5458b4af49631107f447df0dc1e2245"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -1262,7 +1249,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=e5458b4af49631107f447df0dc1e224d"/>
     <sys_hub_flow_output action="delete_multiple" query="model=19458b4af49631107f447df0dc1e2206"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=19458b4af49631107f447df0dc1e2206"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=19458b4af49631107f447df0dc1e2206^sys_idNOT IN61458b4af49631107f447df0dc1e2291,b5458b4af49631107f447df0dc1e22a5,b9458b4af49631107f447df0dc1e229c"/>
@@ -1271,7 +1257,6 @@
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Email when Homework has a comment">19458b4af49631107f447df0dc1e2206</flow>
@@ -1346,7 +1331,6 @@
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Email when Homework has a comment">19458b4af49631107f447df0dc1e2206</flow>
@@ -1459,7 +1443,6 @@
         <action_inputs/>
         <action_type display_value="Look Up Records">43400a1587003300663ca1bb36cb0b4b</action_type>
         <action_type_parent display_value="Look Up Records">d1c56ec50b30030085c083eb37673a50</action_type_parent>
-        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Email when Homework has a comment">19458b4af49631107f447df0dc1e2206</flow>
@@ -1520,7 +1503,6 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=19458b4af49631107f447df0dc1e2206"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=19458b4af49631107f447df0dc1e2206^sys_idNOT INa1458b4af49631107f447df0dc1e2276,a1458b4af49631107f447df0dc1e2279,ad458b4af49631107f447df0dc1e2271"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">516612c6f49231107f447df0dc1e2266</block>
         <comment/>
         <connected_to/>
@@ -1567,7 +1549,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=a1458b4af49631107f447df0dc1e2276"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=a1458b4af49631107f447df0dc1e2276"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">256612c6f49231107f447df0dc1e227f</block>
         <comment/>
         <connected_to/>
@@ -1614,7 +1595,6 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=a1458b4af49631107f447df0dc1e2279"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=a1458b4af49631107f447df0dc1e2279"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
         <block display_value="">0b93de82f49231107f447df0dc1e22bc</block>
         <comment/>
         <connected_to/>
@@ -1710,11 +1690,11 @@
         <sys_created_on>2023-11-06 00:07:34</sys_created_on>
         <sys_id>2d458b4af49631107f447df0dc1e2251</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_19458b4af49631107f447df0dc1e2206_table_name_en</sys_update_name>
         <sys_updated_by>kIshikawa</sys_updated_by>
         <sys_updated_on>2023-11-06 00:07:34</sys_updated_on>
         <url/>
@@ -1733,11 +1713,11 @@
         <sys_created_on>2023-11-06 00:07:33</sys_created_on>
         <sys_id>6d458b4af49631107f447df0dc1e2241</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_19458b4af49631107f447df0dc1e2206_current_en</sys_update_name>
         <sys_updated_by>kIshikawa</sys_updated_by>
         <sys_updated_on>2023-11-06 00:07:33</sys_updated_on>
         <url/>
@@ -1756,11 +1736,11 @@
         <sys_created_on>2023-11-06 00:07:33</sys_created_on>
         <sys_id>ad458b4af49631107f447df0dc1e2249</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_19458b4af49631107f447df0dc1e2206_changed_fields_en</sys_update_name>
         <sys_updated_by>kIshikawa</sys_updated_by>
         <sys_updated_on>2023-11-06 00:07:33</sys_updated_on>
         <url/>

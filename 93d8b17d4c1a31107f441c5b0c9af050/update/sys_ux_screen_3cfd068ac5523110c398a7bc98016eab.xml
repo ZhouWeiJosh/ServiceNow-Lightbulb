@@ -3,7 +3,6 @@
         <active>true</active>
         <app_config display_value="Student App Config">78fd068a565231103c15d15ff66b20c0</app_config>
         <description/>
-        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[
     {
         "eventMappingId": "clgwmclvxaaevjddbhhwjjiiygzrffx",
@@ -104,7 +103,7 @@
         }
     }
 ]</event_mappings>
-        <macroponent display_value="Analytics center">88cfd0cec3302010ec37e0dd9740dde6</macroponent>
+        <macroponent display_value="Analytics Center">88cfd0cec3302010ec37e0dd9740dde6</macroponent>
         <macroponent_config>{
     "label": {
         "type": "TRANSLATION_LITERAL",

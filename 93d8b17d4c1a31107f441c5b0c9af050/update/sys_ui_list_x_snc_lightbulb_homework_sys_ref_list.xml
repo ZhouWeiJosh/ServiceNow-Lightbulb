@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="x_snc_lightbulb_homework" element="NULL" name="x_snc_lightbulb_homework" parent="NULL" relationship="NULL" sys_domain="global" view="2217f243312131107f44cb876fca1c81">5837874ef49631107f447df0dc1e227e</list_id>
+            <list_id display_value="x_snc_lightbulb_homework" element="NULL" name="x_snc_lightbulb_homework" parent="NULL" relationship="NULL" sys_domain="global" view="e384f0717d31311076daf29f52070d7d">5837874ef49631107f447df0dc1e227e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>tomc</sys_updated_by>
             <sys_updated_on>2023-11-06 00:15:57</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">2217f243312131107f44cb876fca1c81</view>
+            <view display_value="Reference List" name="sys_ref_list">e384f0717d31311076daf29f52070d7d</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

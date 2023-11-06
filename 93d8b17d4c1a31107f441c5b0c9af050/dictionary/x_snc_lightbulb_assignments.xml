@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="8d12064af41231107f447df0dc1e223e" extends="task" label="Assignments" max_length="40" name="x_snc_lightbulb_assignments" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Class" max_length="32" name="class" reference="x_snc_lightbulb_classes" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Grade" max_length="40" name="grade" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Group Assignment?" max_length="40" name="group_assignment" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Homework" max_length="32" name="homework" reference="x_snc_lightbulb_homework" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Max Score" max_length="255" name="max_score" read_only="true" type="integer"/>
+        <element label="Rubric" max_length="4000" name="rubric" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Teacher" max_length="32" name="teacher" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Upload Assignment" max_length="40" name="upload_assignment" type="file_attachment"/>
+    </element>
+</database>

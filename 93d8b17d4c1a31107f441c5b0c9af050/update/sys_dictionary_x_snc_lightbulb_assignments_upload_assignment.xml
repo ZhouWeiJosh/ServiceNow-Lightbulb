@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="upload_assignment" table="x_snc_lightbulb_assignments">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jChow</sys_created_by>
         <sys_created_on>2023-11-05 19:30:45</sys_created_on>
-        <sys_id>bae5c28ef41231107f447df0dc1e2277</sys_id>
         <sys_name>Upload Assignment</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>

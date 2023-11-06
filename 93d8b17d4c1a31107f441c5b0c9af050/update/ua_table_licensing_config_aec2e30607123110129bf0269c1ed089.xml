@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>jXiong</sys_created_by>
         <sys_created_on>2023-11-05 19:03:49</sys_created_on>
-        <sys_id>98cf3186f41231107f447df0dc1e22bb</sys_id>
+        <sys_id>aec2e30607123110129bf0269c1ed089</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_lightbulb_homework</sys_name>
         <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
         <sys_policy/>
         <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
-        <sys_update_name>ua_table_licensing_config_98cf3186f41231107f447df0dc1e22bb</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_aec2e30607123110129bf0269c1ed089</sys_update_name>
         <sys_updated_by>jXiong</sys_updated_by>
         <sys_updated_on>2023-11-05 19:03:49</sys_updated_on>
     </ua_table_licensing_config>
