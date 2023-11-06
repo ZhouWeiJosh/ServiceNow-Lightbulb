@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="student Search Profile">30fd068a22523110fb2a0ede02bebdc0</profile>
+        <search_source display_value="Homework">b84b8e46f45231107f447df0dc1e22f1</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-05 20:05:58</sys_created_on>
+        <sys_id>62fd868af45231107f447df0dc1e22e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>student Search Profile.Homework</sys_name>
+        <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_62fd868af45231107f447df0dc1e22e1</sys_update_name>
+        <sys_updated_by>jChow</sys_updated_by>
+        <sys_updated_on>2023-11-05 20:05:58</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

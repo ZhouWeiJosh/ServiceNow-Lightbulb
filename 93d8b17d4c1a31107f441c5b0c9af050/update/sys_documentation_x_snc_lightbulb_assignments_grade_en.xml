@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="grade" label="Grade" language="en" table="x_snc_lightbulb_assignments">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>grade</element>
+            <help/>
+            <hint/>
+            <label>Grade</label>
+            <language>en</language>
+            <name>x_snc_lightbulb_assignments</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jChow</sys_created_by>
+            <sys_created_on>2023-11-05 19:30:45</sys_created_on>
+            <sys_id>32e5c28ef41231107f447df0dc1e2275</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Grade</sys_name>
+            <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_lightbulb_assignments_grade_en</sys_update_name>
+            <sys_updated_by>jChow</sys_updated_by>
+            <sys_updated_on>2023-11-05 19:30:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

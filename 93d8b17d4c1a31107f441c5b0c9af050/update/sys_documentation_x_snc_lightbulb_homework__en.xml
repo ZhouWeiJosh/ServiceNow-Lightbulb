@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Homework" language="en" table="x_snc_lightbulb_homework">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Homework</label>
+            <language>en</language>
+            <name>x_snc_lightbulb_homework</name>
+            <plural>Homeworks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jXiong</sys_created_by>
+            <sys_created_on>2023-11-05 19:03:48</sys_created_on>
+            <sys_id>ffbf3186f41231107f447df0dc1e2284</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Homework</sys_name>
+            <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_lightbulb_homework__en</sys_update_name>
+            <sys_updated_by>jXiong</sys_updated_by>
+            <sys_updated_on>2023-11-05 19:03:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

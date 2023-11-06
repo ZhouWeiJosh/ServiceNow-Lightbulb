@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_snc_lightbulb.admin" name="x_snc_lightbulb.admin">ebd8b17d4c1a31107f441c5b0c9af065</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-05 19:54:05</sys_created_on>
+        <sys_id>a44b8e46f45231107f447df0dc1e2289</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_snc_lightbulb.admin</sys_name>
+        <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+        <sys_update_name>sys_user_role_contains_a44b8e46f45231107f447df0dc1e2289</sys_update_name>
+        <sys_updated_by>jChow</sys_updated_by>
+        <sys_updated_on>2023-11-05 19:54:05</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

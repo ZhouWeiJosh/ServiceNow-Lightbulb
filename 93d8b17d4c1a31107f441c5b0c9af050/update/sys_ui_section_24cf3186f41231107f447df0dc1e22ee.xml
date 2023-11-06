@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="24cf3186f41231107f447df0dc1e22ee" sys_domain="global" table="x_snc_lightbulb_homework" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class</element>
+            <position>0</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>bcd4470af49631107f447df0dc1e222f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>teacher</element>
+            <position>1</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b0d4470af49631107f447df0dc1e2230</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>max_score</element>
+            <position>2</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b4d4470af49631107f447df0dc1e2230</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b8d4470af49631107f447df0dc1e2230</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>bcd4470af49631107f447df0dc1e2230</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>5</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b0d4470af49631107f447df0dc1e2231</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>group_assignment</element>
+            <position>6</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b4d4470af49631107f447df0dc1e2231</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>students</element>
+            <position>7</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b8d4470af49631107f447df0dc1e2231</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_groups</element>
+            <position>8</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>bcd4470af49631107f447df0dc1e2231</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b0d4470af49631107f447df0dc1e2232</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>10</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b4d4470af49631107f447df0dc1e2232</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>11</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b8d4470af49631107f447df0dc1e2232</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rubric</element>
+            <position>12</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>bcd4470af49631107f447df0dc1e2232</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>13</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>b0d4470af49631107f447df0dc1e2233</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>14</position>
+            <sys_created_by>tomc</sys_created_by>
+            <sys_created_on>2023-11-06 00:05:35</sys_created_on>
+            <sys_id>f4d4470af49631107f447df0dc1e228a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_lightbulb_homework" sys_domain="global" view="Default view">24cf3186f41231107f447df0dc1e22ee</sys_ui_section>
+            <sys_updated_by>tomc</sys_updated_by>
+            <sys_updated_on>2023-11-06 00:05:35</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_lightbulb_homework</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jXiong</sys_created_by>
+            <sys_created_on>2023-11-05 19:03:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24cf3186f41231107f447df0dc1e22ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_lightbulb_homework</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+            <sys_update_name>sys_ui_section_24cf3186f41231107f447df0dc1e22ee</sys_update_name>
+            <sys_updated_by>jXiong</sys_updated_by>
+            <sys_updated_on>2023-11-05 19:03:51</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-05 19:53:58</sys_created_on>
+        <sys_id>8e3bca467f523110ff1a2ba92456ddf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Recent Search Reader Group for Starter Workspace AI Search Configuration">c63bca46e8523110d835c63ba09342f7</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="User History Reader">1ee419777320001052c7d5fdbdf6a7ad</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_8e3bca467f523110ff1a2ba92456ddf6</sys_update_name>
+        <sys_updated_by>jChow</sys_updated_by>
+        <sys_updated_on>2023-11-05 19:53:58</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

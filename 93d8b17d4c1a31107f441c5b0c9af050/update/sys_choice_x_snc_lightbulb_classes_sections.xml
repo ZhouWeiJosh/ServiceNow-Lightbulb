@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sections" table="x_snc_lightbulb_classes" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sections</element>
+            <name>x_snc_lightbulb_classes</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jChow</sys_created_by>
+            <sys_created_on>2023-11-05 21:05:02</sys_created_on>
+            <sys_id>bf7b164ef49231107f447df0dc1e22d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sections</sys_name>
+            <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+            <sys_update_name>sys_choice_x_snc_lightbulb_classes_sections</sys_update_name>
+            <sys_updated_by>jChow</sys_updated_by>
+            <sys_updated_on>2023-11-05 21:05:02</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sections</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>001</label>
+            <language>en</language>
+            <name>x_snc_lightbulb_classes</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>jChow</sys_created_by>
+            <sys_created_on>2023-11-05 21:05:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b7b164ef49231107f447df0dc1e22d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jChow</sys_updated_by>
+            <sys_updated_on>2023-11-05 21:05:02</sys_updated_on>
+            <value>001</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sections</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>002</label>
+            <language>en</language>
+            <name>x_snc_lightbulb_classes</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jChow</sys_created_by>
+            <sys_created_on>2023-11-05 21:05:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b37b164ef49231107f447df0dc1e22da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jChow</sys_updated_by>
+            <sys_updated_on>2023-11-05 21:05:02</sys_updated_on>
+            <value>002</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sections</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>003</label>
+            <language>en</language>
+            <name>x_snc_lightbulb_classes</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jChow</sys_created_by>
+            <sys_created_on>2023-11-05 21:05:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff7b164ef49231107f447df0dc1e22da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jChow</sys_updated_by>
+            <sys_updated_on>2023-11-05 21:05:02</sys_updated_on>
+            <value>003</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sections</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>004</label>
+            <language>en</language>
+            <name>x_snc_lightbulb_classes</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>jChow</sys_created_by>
+            <sys_created_on>2023-11-05 21:05:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f7b164ef49231107f447df0dc1e22db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jChow</sys_updated_by>
+            <sys_updated_on>2023-11-05 21:05:02</sys_updated_on>
+            <value>004</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sections</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>005</label>
+            <language>en</language>
+            <name>x_snc_lightbulb_classes</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>jChow</sys_created_by>
+            <sys_created_on>2023-11-05 21:05:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b7b164ef49231107f447df0dc1e22dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jChow</sys_updated_by>
+            <sys_updated_on>2023-11-05 21:05:02</sys_updated_on>
+            <value>005</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

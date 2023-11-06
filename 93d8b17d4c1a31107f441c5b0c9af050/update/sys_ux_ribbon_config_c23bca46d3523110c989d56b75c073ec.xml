@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Teacher Ribbon Config</description>
+        <name>Teacher Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-05 19:53:58</sys_created_on>
+        <sys_id>c23bca46d3523110c989d56b75c073ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teacher Ribbon Config</sys_name>
+        <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_c23bca46d3523110c989d56b75c073ec</sys_update_name>
+        <sys_updated_by>jChow</sys_updated_by>
+        <sys_updated_on>2023-11-05 19:53:58</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

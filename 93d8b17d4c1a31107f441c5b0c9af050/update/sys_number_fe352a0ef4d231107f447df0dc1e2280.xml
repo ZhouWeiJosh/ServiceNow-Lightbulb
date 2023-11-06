@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_lightbulb_assignments">x_snc_lightbulb_assignments</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ASN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>kIshikawa</sys_created_by>
+        <sys_created_on>2023-11-05 21:47:34</sys_created_on>
+        <sys_id>fe352a0ef4d231107f447df0dc1e2280</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ASN</sys_name>
+        <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+        <sys_update_name>sys_number_fe352a0ef4d231107f447df0dc1e2280</sys_update_name>
+        <sys_updated_by>kIshikawa</sys_updated_by>
+        <sys_updated_on>2023-11-05 21:47:34</sys_updated_on>
+    </sys_number>
+</record_update>

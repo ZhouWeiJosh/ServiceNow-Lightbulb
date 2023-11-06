@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>3fd839f94c1a31107f441c5b0c9af005</logo>
+        <menu/>
+        <name>LightBulb</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_lightbulb</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_lightbulb</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-04 23:55:15</sys_created_on>
+        <sys_id>93d8b17d4c1a31107f441c5b0c9af050</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jChow</sys_updated_by>
+        <sys_updated_on>2023-11-04 23:55:16</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=93d8b17d4c1a31107f441c5b0c9af050"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>Lightbulb_Logo2.png</file_name>
+        <hash>278eb7e883af6330e5a96567c6ddce328972b5863c1988e92d0689c683f9ea3c</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>2861</size_bytes>
+        <size_compressed>2884</size_compressed>
+        <state>available_conditionally</state>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-04 23:55:16</sys_created_on>
+        <sys_id>3fd839f94c1a31107f441c5b0c9af005</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>jChow</sys_updated_by>
+        <sys_updated_on>2023-11-04 23:55:22</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>93d8b17d4c1a31107f441c5b0c9af050</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Lightbulb_Logo2.png" sys_id="3fd839f94c1a31107f441c5b0c9af005">3fd839f94c1a31107f441c5b0c9af005</sys_attachment>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-04 23:55:16</sys_created_on>
+        <sys_id>7fd839f94c1a31107f441c5b0c9af005</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3832</length>
+        <position>1</position>
+        <sys_attachment display_value="Lightbulb_Logo2.png" sys_id="3fd839f94c1a31107f441c5b0c9af005">3fd839f94c1a31107f441c5b0c9af005</sys_attachment>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-04 23:55:16</sys_created_on>
+        <sys_id>ffd839f94c1a31107f441c5b0c9af005</sys_id>
+    </sys_attachment_doc>
+</record_update>

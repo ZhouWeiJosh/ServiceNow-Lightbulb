@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Assignments</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Assignments</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">20a8ba0b312131107f44cb876fca1ce2</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>jChow</sys_created_by>
+        <sys_created_on>2023-11-05 19:13:59</sys_created_on>
+        <sys_id>0512064af41231107f447df0dc1e2251</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignments</sys_name>
+        <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+        <sys_update_name>sys_wizard_answer_0512064af41231107f447df0dc1e2251</sys_update_name>
+        <sys_updated_by>jChow</sys_updated_by>
+        <sys_updated_on>2023-11-05 19:13:59</sys_updated_on>
+        <table/>
+        <target_url>x_snc_lightbulb_assignments.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

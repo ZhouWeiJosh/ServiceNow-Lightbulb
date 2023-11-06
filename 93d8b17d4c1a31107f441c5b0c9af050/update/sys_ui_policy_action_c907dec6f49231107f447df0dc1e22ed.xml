@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>student_groups</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>jXiong</sys_created_by>
+        <sys_created_on>2023-11-05 20:45:28</sys_created_on>
+        <sys_id>c907dec6f49231107f447df0dc1e22ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>student_groups</sys_name>
+        <sys_package display_value="LightBulb" source="x_snc_lightbulb">93d8b17d4c1a31107f441c5b0c9af050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LightBulb">93d8b17d4c1a31107f441c5b0c9af050</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c907dec6f49231107f447df0dc1e22ed</sys_update_name>
+        <sys_updated_by>jXiong</sys_updated_by>
+        <sys_updated_on>2023-11-05 20:45:28</sys_updated_on>
+        <table>x_snc_lightbulb_homework</table>
+        <ui_policy display_value="If group assignment is checked, show">c507dec6f49231107f447df0dc1e22e9</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
